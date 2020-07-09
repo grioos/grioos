@@ -3,9 +3,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.al.rio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.al.rio@gmail.com)](mailto:gabriel.al.rio@gmail.com)
 
 ## Hi 👋, 
-I'm Gabriel Rios, I'm a Full Stack(in progress) 💻 who is passionate about technology. 
+I'm Gabriel Rios, I'm beginning in programmming with Javascript 💻 who always being passionate about technology. 
 
-- 🧭 I’m currently working in becoming a Full Stack developer(back-end, front-end, mobile)
+- 🧭 I’m currently working in becoming a Fullstack developer(back-end, front-end, mobile)
 - 📖 I’m currently learning JavaScript
 - 💬 Ask me about: tech, games, movies
 - 🚀 Languages: Javascript
