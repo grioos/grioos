@@ -8,7 +8,6 @@ I'm Gabriel Rios, I'm beginning in programmming with Javascript 💻 who always 
 - 🧭 I’m currently working in becoming a Fullstack developer(back-end, front-end, mobile)
 - 📖 I’m currently learning JavaScript
 - 💬 Ask me about: tech, games, movies
-- 🚀 Languages: Javascript
 
 ##
 
