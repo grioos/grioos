@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.al.rio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.al.rio@gmail.com)](mailto:gabriel.al.rio@gmail.com)
 
 ## Hi 👋, 
-I'm Gabriel Rios, I'm beginning in programmming with Javascript 💻
+I'm Gabriel Rios, I'm beginning in programming with Javascript 💻
 
 - 🧭 I’m currently working in becoming a Fullstack developer(back-end, front-end, mobile)
 - 📖 I’m currently learning JavaScript
