@@ -5,7 +5,7 @@
 ## Hi 👋, 
 I'm Gabriel Rios, I'm beginning in programming with Javascript 💻
 
-- 🧭 I’m currently working in becoming a Fullstack developer(back-end, front-end)
+- 🧭 I’m working in becoming a Fullstack developer(back-end, front-end)
 - 📖 I’m currently learning JavaScript
 - 💬 Ask me about: tech, games, movies
 
