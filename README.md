@@ -8,6 +8,3 @@ I'm Gabriel Rios, I'm beginning in programming with Javascript 💻
 - 📖 I’m currently learning JavaScript
 - 💬 Ask me about: tech, games, movies
 
-##
-
-🎈 From [Gabriel Rios](https://www.linkedin.com/in/grioos/)
