@@ -1,8 +1,8 @@
 ## Hi there 👋🏻
 
-My name is Gabriel Rios, and I'm from Brazil. I've been studying programming since February 2020, and currently, I'm working to become a Fullstack developer using Javascript, Node.js, and ReactJS.
+My name is Gabriel Rios, I'm 20 years old and I'm from Brazil. I've been studying programming since February 2020 and, currently, I'm working to become a Fullstack developer focusing on Javascript, Node.js, and ReactJS.
 
-When I'm not programming, I like to play some games 🎮, watch movies 🎥 and series 📺, to read books 📚, and eventually to think about what I'm doing with my life 🤷.
+While I'm not programming, I like to play some games 🎮, watch movies 🎥 and series 📺, to read books 📚, and sometimes to think about what I'm doing with my own life 🤷.
 
 🌎 Reach me at:
 
